@@ -25,4 +25,4 @@ Milestones **due by**:
 * Final draft of citable work live on course page **12/8**
 * Submission of citable work to indexed repository **12/15**
 
-
+This timeline is recommended to ensure that submission to an indexed repository is completed by **December 15, 2023**. 
