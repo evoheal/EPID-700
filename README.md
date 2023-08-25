@@ -11,7 +11,7 @@ CUNY, SPH
 
 ## Course Objectives
 
-This course is designed to support each student in the pursuit of original public health research, culminating in a citable work made available as a preprint on [bioRxiv](https://www.biorxiv.org/) if submission for peer review is planned or [Zenodo](https://zenodo.org/) otherwise.
+This course is designed to support each student in the pursuit of original public health research, culminating in a citable work made available as a preprint on [bioRxiv](https://www.biorxiv.org/) if submission for peer review is planned or [Zenodo](https://zenodo.org/) otherwise.<br/>
 Milestones **due by**:
 
 * 30 min. 1-1 introductory meeting with Nash **9/4**
