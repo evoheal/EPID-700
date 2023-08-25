@@ -25,4 +25,9 @@ Milestones **due by**:
 * Final draft of citable work live on course page **12/8**
 * Submission of citable work to indexed repository **12/15**
 
-This timeline is recommended to ensure that submission to an indexed repository is completed by **December 15, 2023**. 
+This timeline is recommended to ensure that submission to an indexed repository is completed by **December 15, 2023**. Extensions, for any milestone and not limited to final submission, will only be granted after the course instructor has received email confirmation that the faculty advisor for the student requesting the extension has been made aware of the request without objection.
+
+## Current Objective
+At the time of writing, **August 25, 2023**, the current objective is:
+* 30 min. 1-1 introductory meeting with Nash **9/4**
+
