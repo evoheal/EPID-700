@@ -35,4 +35,4 @@ Please fill out your availability to meet with Nash [here](https://www.when2meet
 ## Next Objective
 At the time of writing, **August 25, 2023**, the next objective is:
 * 5 min. class presentations **9/8**
-Please fill out your availability [here]() Note that this is a group event and it is best to maximize the time available between 1-1 meetings and the class presentation.
+Please fill out your availability [here](https://www.when2meet.com/?21042517-Mn4cL) Note that this is a group event and it is best to maximize the time available between 1-1 meetings and the class presentation.
