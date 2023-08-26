@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/CUNYbannerImage.png)
 # <p align="center">EPID 700, Fall 2023</p>
 
-Welcome to the course page for the City University of New York, SPH: Population Health Informatics Project, Fall 2023.
+Welcome to the course page for the City University of New York, SPH: Population Health Informatics Project, Fall 2023. You may find the course syllabus [here](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/EPID%20700%20Syllabus%20Fall%202023.pdf); however, the course structure is flexible and will be adjusted over the course of the semester to best support student needs. Please refer to this course page to remain updated.
 
 ## Instructor
 Nash Rochman<br/>
