@@ -30,15 +30,18 @@ This timeline is recommended to ensure that submission to an indexed repository 
 At the time of writing, **August 30, 2023**, the current objective is:
 * 5 min. class presentations **7-9PM EST Wednesday, 9/6**
 
-Students unable
-  
-Please fill out your availability [here](https://www.when2meet.com/?21042517-Mn4cL)<br/>
+Students unable to join this group session must record their presentations and share with the class over email. Recorded presentations are due at the start of the group session.<br/>
 
-Note that this is a group event and it is best to maximize the time available between 1-1 meetings and the class presentation.
+These brief presentations are designed to introduce each research project to the class to motivate feedback which will help to shape the goals for the remainder of the semester.
+
 
 ## Next Objective
+At the time of writing, **August 30, 2023**, the next objective is:
+* Finalized research objectives **9/13**
+
+Detailed requirements for this objective will be posted in the next several days.
 
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
-* 
+
 This course is structured to be a continuation of your fieldwork; however, any topic which may be developed into a citable reference by the end of the semester will be supported.
