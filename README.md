@@ -41,4 +41,5 @@ Please fill out your availability [here](https://www.when2meet.com/?21042517-Mn4
 Note that this is a group event and it is best to maximize the time available between 1-1 meetings and the class presentation.
 
 ## Frequently Asked Questions
-Under construction.
+* Will our project be related to our fieldwork or is it up to us what topic we pick?
+This course is structured to be a continuation of your fieldwork; however, any topic which may be developed into a citable reference by the end of the semester will be supported.
