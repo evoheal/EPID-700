@@ -27,19 +27,18 @@ Milestones **due by**:
 This timeline is recommended to ensure that submission to an indexed repository is completed by **December 15, 2023**. Extensions, for any milestone and not limited to final submission, will only be granted after the course instructor has received email confirmation that the faculty advisor for the student requesting the extension has been made aware of the request without objection.
 
 ## Current Objective
-At the time of writing, **August 25, 2023**, the current objective is:
-* 30 min. 1-1 introductory meeting with Nash **9/4**
+At the time of writing, **August 30, 2023**, the current objective is:
+* 5 min. class presentations **7-9PM EST Wednesday, 9/6**
 
-Please fill out your availability to meet with Nash [here](https://www.when2meet.com/?21042417-uTA8d)
-
-## Next Objective
-At the time of writing, **August 25, 2023**, the next objective is:
-* 5 min. class presentations **9/8**
+Students unable
   
 Please fill out your availability [here](https://www.when2meet.com/?21042517-Mn4cL)<br/>
 
 Note that this is a group event and it is best to maximize the time available between 1-1 meetings and the class presentation.
 
+## Next Objective
+
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
+* 
 This course is structured to be a continuation of your fieldwork; however, any topic which may be developed into a citable reference by the end of the semester will be supported.
