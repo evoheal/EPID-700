@@ -32,7 +32,12 @@ At the time of writing, **August 30, 2023**, the current objective is:
 
 Students unable to join this group session must record their presentations and share with the class over email. Recorded presentations are due at the start of the group session.<br/>
 
-These brief presentations are designed to introduce each research project to the class to motivate feedback which will help to shape the goals for the remainder of the semester.
+These brief presentations are designed to introduce each research project to the class to motivate feedback which will help to shape the goals for the remainder of the semester. There are no formatting requirements, but the following structure is likely to be successful:
+
+* Title Slide
+* Project Motivation: What problem do you intend to solve?
+* Current State of the Field: What do people currently do to address these challenges? Why are these approaches insufficient?
+* Long Term Vision: What is your 
 
 
 ## Next Objective
