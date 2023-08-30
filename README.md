@@ -28,7 +28,7 @@ This timeline is recommended to ensure that submission to an indexed repository 
 
 ## Current Objective
 At the time of writing, **August 30, 2023**, the current objective is:
-* 5 min. class presentations **7-9PM EST Wednesday, 9/6**
+* 5 min. class presentations **7-9PM EST Wednesday, 9/6**, email comments are due **9AM EST Friday, 9/8**
 
 Students unable to join this group session must record their presentations and share with the class over email. Recorded presentations are due at the start of the group session.<br/>
 
@@ -45,6 +45,14 @@ These brief presentations are designed to introduce each research project to the
 
 7 slides in 5 minutes. This dense format requires clear, concise presentation which should be practiced several times before sharing with the class. Writing a script is recommended. Fundamentally, the goal is to engage your classmates so they understand and are excited by your work, and are in a strong position to make constructive comments.<br/>
 
+After all presentations have been shared, an email thread for each project will be started. Every student must reply to every thread. These emails must be written according to the following format, with one paragraph for each point:
+
+* What did you understand to be the immediate impact of the project?
+* Describe one way in which you are confident the project will be successful.
+* Describe one way in which you are concerned the project will be unsuccessful.
+* What was your favorite aspect of the presentation design (in contrast to the science)?
+* What was your least favorite aspect of the presentation design?
+* Make one "out of the box" suggestion for the project.
 
 
 ## Next Objective
