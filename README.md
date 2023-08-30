@@ -34,7 +34,7 @@ Students unable to join this group session must record their presentations and s
 
 These brief presentations are designed to introduce each research project to the class to motivate feedback which will help to shape the goals for the remainder of the semester. There are no formatting requirements, but the following structure is likely to be successful:
 
-* Title Slide
+* (Title Slide)
 * Project Motivation: What problem do you intend to solve?
 * Current State of the Field: What do people currently do to address these challenges? Why are these approaches insufficient?
 * Long Term Vision: What is your vision for how this problem will be completely solved (perhaps far into the future as a result of great effort exerted by many people)?
@@ -42,6 +42,8 @@ These brief presentations are designed to introduce each research project to the
 * Data: How will you get the data that supports this project?
 * Known Methods: What techinques, with which you are already familiar, will you use to achieve your immediate impact?
 * Unknown Methods: What techniques do you need to learn?
+
+7 slides in 5 minutes. This dense format requires clear, concise presentation which should be practiced several times before sharing with the class. Writing a script is recommended. Fundamentally, the goal is to engage your classmates so they understand and are excited by your work, and are in a strong position to make constructive comments.<br/>
 
 
 
