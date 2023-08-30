@@ -37,7 +37,12 @@ These brief presentations are designed to introduce each research project to the
 * Title Slide
 * Project Motivation: What problem do you intend to solve?
 * Current State of the Field: What do people currently do to address these challenges? Why are these approaches insufficient?
-* Long Term Vision: What is your 
+* Long Term Vision: What is your vision for how this problem will be completely solved (perhaps far into the future as a result of great effort exerted by many people)?
+* Immediate Impact: How does your capstone project make progress towards your long term vision?
+* Data: How will you get the data that supports this project?
+* Known Methods: What techinques, with which you are already familiar, will you use to achieve your immediate impact?
+* Unknown Methods: What techniques do you need to learn?
+
 
 
 ## Next Objective
