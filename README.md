@@ -65,3 +65,7 @@ Detailed requirements for this objective will be posted in the next several days
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
 
 This course is structured to be a continuation of your fieldwork; however, any topic which may be developed into a citable reference by the end of the semester will be supported.
+
+* Regarding 5 min. presentations: are we expected to answer all questions for each presentation per student and will our responses be written on the discussion board or another format?
+
+As stated above, "After all presentations have been shared, an email thread for each project will be started. Every student must reply to every thread."
