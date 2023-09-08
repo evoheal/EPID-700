@@ -68,8 +68,8 @@ Each objective must be assessed in three ways.</br>
    a) use only publicly available data which may immediately be accessed in a convenient format<br/>
    b) use publicly available data which I need to organize myself<br/>
    c) collect new data (through a survey, experiment, simulation, etc.)<br/>
-4) I can complete this objective using techniques I have<br/>
-   A) already mastered<br/>
+4) I can complete this objective using techniques I<br/>
+   A) have already mastered<br/>
    B) will learn from an available step-by-step reference guide<br/>
    C) completed a specified learning plan.<br/>
 
