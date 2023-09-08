@@ -59,9 +59,11 @@ After all presentations have been shared, an email thread for each project will 
 At the time of writing, **September 8, 2023**, the next objective is:
 * Finalized research objectives **9/13**
 
-Your statement of research objectives will serve as a rough outline of the mock grant proposal to be completed in the next milestone. You must have at least 3 independent sets of objectives grouped into aims, each of which could be completed even if all others are unsuccessful. Each objective must be assessed in three ways.
+Your statement of research objectives will serve as a rough outline of the mock grant proposal to be completed in the next milestone. You must have at least 3 independent sets of objectives grouped into aims, each of which could be completed even if all others are unsuccessful. Your objectives must be within the scope of this course. Submission of the next milestone will not be accepted until I am confident the proposed project will be successful.</br>
 
-1) The outcome is (0) certain or (1) uncertain. For example, 
+Each objective must be assessed in three ways.</br>
+
+1) The outcome is (0) certain or (1) uncertain. For example, formulating survey questions has a certain outcome - you end up with a list of survey questions. Identifying that group X responded differently from group Y to a set of survey questions has an uncertain outcome - you may end up supporting the null hypothesis.
 2) I can complete this objective if I<br/>
    a) use only publicly available data which may immediately be accessed in a convenient format<br/>
    b) use publicly available data which I need to organize myself<br/>
@@ -71,7 +73,7 @@ Your statement of research objectives will serve as a rough outline of the mock 
    B) will learn from an available step-by-step reference guide<br/>
    C) completed a specified learning plan.<br/>
 
-There is no required number of objectives in each category. Any objective labelled b/B or c/C must be accompanied by the relevant supporting information. Your statement of research objectives should follow the below format:</br>
+There is no required number of objectives in each category. This assessment primarily seves to ensure that you and I have a mutual understanding about what aspects of the proposed work require the greatest time investment. Any objective labelled b/B or c/C must be accompanied by the relevant supporting information. Your statement of research objectives should follow the below format:</br>
 
 **Title**</br>
 
@@ -86,6 +88,7 @@ Aim 2: Title of Aim 2
 
 * ...
 
+You will make your reserach objectives live on the course page which will require you to create a github account and send me your username so that I can invite you to edit.
 
 
 
