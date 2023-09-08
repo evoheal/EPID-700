@@ -56,10 +56,10 @@ After all presentations have been shared, an email thread for each project will 
 
 
 ## Next Objective
-At the time of writing, **August 30, 2023**, the next objective is:
+At the time of writing, **September 8, 2023**, the next objective is:
 * Finalized research objectives **9/13**
 
-Detailed requirements for this objective will be posted in the next several days.
+Your statement of research objectives will serve as a rough outline of the mock grant proposal to be completed in the next milestone. You must have at least 3 independent sets of objectives each of which could be completed even if all others are unsuccessful. Each objective must be assessed in three ways. 1) The outcome is (0) certain or (1) uncertain. 2) I can complete this objective if I (a) use only publicly available data which may immediately be accessed in a convenient format (b) use publicly available data which I need to organize myself (c) collect new data (through a survey, experiment, simulation, etc.) 3) I can complete this objective using techniques I have (A) already mastered (B) will learn from an available step-by-step reference guide (C) not yet established how I will learn.
 
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
