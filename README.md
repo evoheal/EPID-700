@@ -59,7 +59,7 @@ After all presentations have been shared, an email thread for each project will 
 At the time of writing, **September 8, 2023**, the next objective is:
 * Finalized research objectives **9/13**
 
-Your statement of research objectives will serve as a rough outline of the mock grant proposal to be completed in the next milestone. You must have at least 3 independent sets of objectives each of which could be completed even if all others are unsuccessful. Each objective must be assessed in three ways.
+Your statement of research objectives will serve as a rough outline of the mock grant proposal to be completed in the next milestone. You must have at least 3 independent sets of objectives grouped into aims, each of which could be completed even if all others are unsuccessful. Each objective must be assessed in three ways.
 
 1) The outcome is (0) certain or (1) uncertain.
 2) I can complete this objective if I<br/>
@@ -71,7 +71,19 @@ Your statement of research objectives will serve as a rough outline of the mock 
    B) will learn from an available step-by-step reference guide<br/>
    C) completed a specified learning plan.<br/>
 
-There is no required number of objectives in each category. Any objective labelled b/B or c/C must be accompanied by the relevant supporting information.
+There is no required number of objectives in each category. Any objective labelled b/B or c/C must be accompanied by the relevant supporting information. Your statement of research objectives should follow the below format:</br>
+
+**Title**</br>
+
+Introductory paragraph.</br>
+
+Aim 1: Title of Aim 1
+
+Objective 1: Title of objective 1 [objective assessment e.g. 1bA]
+
+
+
+
 
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
