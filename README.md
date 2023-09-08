@@ -61,7 +61,7 @@ At the time of writing, **September 8, 2023**, the next objective is:
 
 Your statement of research objectives will serve as a rough outline of the mock grant proposal to be completed in the next milestone. You must have at least 3 independent sets of objectives grouped into aims, each of which could be completed even if all others are unsuccessful. Each objective must be assessed in three ways.
 
-1) The outcome is (0) certain or (1) uncertain.
+1) The outcome is (0) certain or (1) uncertain. For example, 
 2) I can complete this objective if I<br/>
    a) use only publicly available data which may immediately be accessed in a convenient format<br/>
    b) use publicly available data which I need to organize myself<br/>
@@ -79,7 +79,14 @@ Introductory paragraph.</br>
 
 Aim 1: Title of Aim 1
 
-Objective 1: Title of objective 1 [objective assessment e.g. 1bA]
+* *Objective 1[objective assessment e.g. 1bA]* Statement of objective including relevant [references](https://www.wikipedia.org/).
+* ...
+
+Aim 2: Title of Aim 2
+
+* ...
+
+
 
 
 
