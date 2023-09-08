@@ -71,7 +71,7 @@ Each objective must be assessed in three ways.</br>
 4) I can complete this objective using techniques I<br/>
    A) have already mastered<br/>
    B) will learn from an available step-by-step reference guide<br/>
-   C) completed a specified learning plan.<br/>
+   C) will understand after completing a specified intensive learning plan (e.g. online course).<br/>
 
 There is no required number of objectives in each category. This assessment primarily seves to ensure that you and I have a mutual understanding about what aspects of the proposed work require the greatest time investment. Any objective labelled b/B or c/C must be accompanied by the relevant supporting information. Your statement of research objectives should follow the below format:</br>
 
