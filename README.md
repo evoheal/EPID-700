@@ -15,8 +15,8 @@ Milestones **due by**:
 
 * 30 min. 1-1 introductory meeting with Nash **9/4**
 * 5 min. class presentations **9/8**
-* Finalized research objectives **9/13**
-* Outline for introduction and methods live on course page **9/18**
+* Finalized research objectives **9/15**
+* Outline for introduction and methods live on course page **9/22**
 * Mock grant review **10/6**
 * Course symposium, 15 min. presentations **11/3**
 * Outline for final citable work live on course page **11/24**
@@ -56,8 +56,8 @@ After all presentations have been shared, an email thread for each project will 
 
 
 ## Next Objective
-At the time of writing, **September 8, 2023**, the next objective is:
-* Finalized research objectives **9/13**
+At the time of writing, **September 11, 2023**, the next objective is:
+* Finalized research objectives **9/15**
 
 Your statement of research objectives will serve as a rough outline of the mock grant proposal to be completed in the next milestone. You must have at least 3 independent sets of objectives grouped into aims, each of which could be completed even if all others are unsuccessful. Your objectives must be within the scope of this course. Submission of the next milestone will not be accepted until I am confident the proposed project will be successful.</br>
 
