@@ -74,7 +74,6 @@ Here are examples of inappropriate points:<br/>
 * The majority of gas stoves in the US generate CO levels which exceed federal guidelines
 
 
-
 ## Next Objective
 At the time of writing, **September 18, 2023**, the next objective is:
 * Mock grant review **10/6**
