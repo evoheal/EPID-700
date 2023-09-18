@@ -8,6 +8,16 @@ Nash Rochman<br/>
 Epidemiology and Biostatistics<br/>
 CUNY, SPH
 
+## Projects
+
+Hind Akasbi<br/>
+Kami-Sue Grant<br/>
+Tesfaye Haile<br/>
+Helen Huynh-Trinh<br/>
+Mark Tam<br/>
+Julissa Valerio<br/>
+[Ivy Zeng](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/Ivy%20Zeng/README.md)<br/>
+
 ## Course Objectives
 
 This course is designed to support each student in the pursuit of original public health research, culminating in a citable work made available as a preprint on [bioRxiv](https://www.biorxiv.org/) if submission for peer review is planned or [Zenodo](https://zenodo.org/) otherwise.<br/>
