@@ -104,10 +104,14 @@ In this objective, you will review a classmate's introduction and methods outlin
 2) Is this proposal *practical*? Can this reasonably completed by the author within 3 months? This will depend on the author's prior preparation. If the author states they have extensive prior programming experience, building a searchable database and hosting it on the web may be easily achieved. If the author has never coded before, this is entirely impractical.
 3) Lastly, is this proposal *impactful*? In your assessment of impact, it is essential for you to consider each proposal in the context of this course for which everyone has very limited time. A project which is quite narrow in scope but which completely addresses an interesting question, generating data or consensus through review of published material that future investigators may reasonably be expected to use, is the kind of impact we are hoping to achieve. We want to avoid projects which are very ambitious and very broad which, at the end of 3 months of work, do not result in any complete, unambiguous results even if the original problem statement is more appealing.
 
-The peer assessment will follow the format below where a large point value represents greater criticism of the proposal. A proposal which appears certain to succeed, is highly novel, and will make a major impact could receive a score of 0.<br/>
+The peer assessment will follow the format below. Up to **5 points** are assigned each statement according to how much the reviewer **disagrees** with the statement - lower scores are better.<br/>
 
 **NOVELTY**
+* There is not much literature on this topic.
+* The methods applied are new to this area.
+* This study is likely to
 
+Peer reviewers must provide at least one sentence of justification for each score. The grade associated with this assignment is for the contribution as a reviewer. The peer review score you receive for your own proposal does not affect your grade.
 
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
