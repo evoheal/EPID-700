@@ -109,9 +109,20 @@ The peer assessment will follow the format below. Up to **5 points** are assigne
 **NOVELTY**
 * There is not much literature on this topic.
 * The methods applied are new to this area.
-* This study is likely to
+* This study is likely to motivate further research
 
-Peer reviewers must provide at least one sentence of justification for each score. The grade associated with this assignment is for the contribution as a reviewer. The peer review score you receive for your own proposal does not affect your grade.
+**PRACTICALITY**
+* I could follow the methods well enough to conduct this study myself with enough time.
+* The author has carefully considered how much time each step will take.
+* I agree with the assessment that this proposal can be completed in 3 months.
+* The author has demonstrated that they have the prior experience required to successfully conduct this work.
+
+**IMPACT**
+* The results of this study will be of interest to a broad audience.
+* This study addresses an established public health need.
+* The results of this study are likely to be utilized in future research.
+
+Peer reviewers must provide at least **3 sentences** of justification for each score. The grade associated with this assignment is for the contribution as a reviewer. The peer review score you receive for your own proposal does not affect your grade.
 
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
