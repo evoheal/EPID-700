@@ -62,7 +62,7 @@ Points must be specific. Here are examples of different varieties of appropriate
 
 * I will compute the average temperature at each grid location over a sliding window of 1 year and measure the daily deviation from that temperature over time.
 
-Here are examples of inappropriate points:
+Here are examples of inappropriate points:<br/>
 (too vague)
 * I will assess the needs of local residents
 * I will analyze this data set [A public dataset of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics](https://peerj.com/articles/3298/)
