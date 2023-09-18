@@ -46,6 +46,8 @@ The project outline will have three sections, *Introduction* and *Methods* as we
 
 Instead, the material in these sections should be presented as bullet points. References must be provided for these sections. Only "essential" references are required at this stage. For example, here it is appropriate to write "COVID-19 will remain a significant public health concern for several years". In the final milestone this statement should be justified with a reference including economic or epidemiological forecasts. There is no required number of bullet points or references; however, **20-50 points** and **10-20 references** is appropriate for most topics. Each reference should be included as a hyperlink with the text displayed corresponding to the title of the cited article<br/>
 
+Additionally, it is important to include information about your prior experience as an author within this outline if that prior experience is essential for the successful completion of the proposal.<br/>
+
 Points must be specific. Here are examples of different varieties of appropriate points:
 (Introduction)
 * Transmissible cancers are widespread in diverse species and understudied
@@ -97,7 +99,15 @@ Other more flexible options are [possible](https://docs.github.com/en/get-starte
 At the time of writing, **September 18, 2023**, the next objective is:
 * Mock grant review **10/6**
 
-Detailed instructions will be posted shortly.
+In this objective, you will review a classmate's introduction and methods outline and make an assessment primarily considering three things:
+1) Is this proposal *novel*? In other words, how different is this study from previously published work? Not all important science is novel. For example, replicating or failing to replicate a shocking result is critical to assessing validity.
+2) Is this proposal *practical*? Can this reasonably completed by the author within 3 months? This will depend on the author's prior preparation. If the author states they have extensive prior programming experience, building a searchable database and hosting it on the web may be easily achieved. If the author has never coded before, this is entirely impractical.
+3) Lastly, is this proposal *impactful*? In your assessment of impact, it is essential for you to consider each proposal in the context of this course for which everyone has very limited time. A project which is quite narrow in scope but which completely addresses an interesting question, generating data or consensus through review of published material that future investigators may reasonably be expected to use, is the kind of impact we are hoping to achieve. We want to avoid projects which are very ambitious and very broad which, at the end of 3 months of work, do not result in any complete, unambiguous results even if the original problem statement is more appealing.
+
+The peer assessment will follow the format below where a large point value represents greater criticism of the proposal. A proposal which appears certain to succeed, is highly novel, and will make a major impact could receive a score of 0.<br/>
+
+**NOVELTY**
+
 
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
