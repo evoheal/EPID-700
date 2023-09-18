@@ -60,7 +60,7 @@ Points must be specific. Here are examples of different varieties of appropriate
 
 <br/>
 
-* I will compute the average temperature at each grid location over a sliding window of 1 year and measure the daily deviation from that temperature over timee.
+* I will compute the average temperature at each grid location over a sliding window of 1 year and measure the daily deviation from that temperature over time.
 
 Here are examples of inappropriate points:
 (too vague)
