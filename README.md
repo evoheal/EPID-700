@@ -88,8 +88,8 @@ To prevent accidents associated with editing a different student's project, inst
 
 You may consider using this [template]() which only uses three basic formatting functions:
 1) creating a heading, "##"
-2) line breaks, "<br/>"
-3) hyperlinks, "[display text}(web address)"
+2) line breaks, "\<br/>"
+3) hyperlinks, "\[display text](web address)"
 
 Other more flexible options are [possible](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if desired. For this and most future milestones, I will upload the final result to the course page for you (in the folders linked at the top of this document which are currently empty).
 
