@@ -10,13 +10,13 @@ CUNY, SPH
 
 ## Projects
 
-Hind Akasbi<br/>
-Kami-Sue Grant<br/>
-Tesfaye Haile<br/>
-Helen Huynh-Trinh<br/>
-Mark Tam<br/>
-Julissa Valerio<br/>
-[Ivy Zeng](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/Ivy%20Zeng/README.md)<br/>
+[Hind Akasbi](https://github.com/evoheal/EPID-700-Fall-2023/tree/main/Hind%20Akasbi)<br/>
+[Kami-Sue Grant](https://github.com/evoheal/EPID-700-Fall-2023/tree/main/Kami-Sue%20Grant)<br/>
+[Tesfaye Haile](https://github.com/evoheal/EPID-700-Fall-2023/tree/main/Tesfaye%20Haile)<br/>
+[Helen Huynh-Trinh](https://github.com/evoheal/EPID-700-Fall-2023/tree/main/Helen%20Huynh-Trinh)<br/>
+[Mark Tam](https://github.com/evoheal/EPID-700-Fall-2023/tree/main/Mark%20Tam)<br/>
+[Julissa Valerio](https://github.com/evoheal/EPID-700-Fall-2023/tree/main/Julissa%20Valerio)<br/>
+[Ivy Zeng](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/Ivy%20Zeng)<br/>
 
 ## Course Objectives
 
