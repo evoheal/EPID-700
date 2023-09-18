@@ -38,7 +38,8 @@ Points must be specific. Here are examples of different varieties of strong poin
 (Introduction)
 * Transmissible cancers are widespread in diverse species and understudied
 * Bivalves are strongly affected [Widespread transmission of independent cancer lineages within multiple bivalve species](https://www.nature.com/articles/nature18599)
-<br/>
+
+ <br/>
 
 * Heart disease remains a major cause of mortality in the US
 * Cardiovascular exercise decreases risk but there is a need for improved dosing guidelines [Optimal Dose of Running for Longevity: Is More Better or Worse?](https://www.jacc.org/doi/full/10.1016/j.jacc.2014.11.022)<br/>
