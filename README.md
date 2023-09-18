@@ -34,7 +34,7 @@ Now the goals for each project have been identified. The goals have been succinc
 
 The project outline will have three sections, *Introduction* and *Methods* as well as an *Abstract*. The abstract will be a refined version of the introductory paragraph from the previous milestone. It must be between 200-300 words and will not contain references. The abstract should be written in a style consistent with a peer reviewed publication. The introduction and methods sections should NOT be written in formal style as these sections will be reshaped from now until the course symposium. Instead, the material in these sections should be presented as bullet points. References must be provided for these sections. Only "essential" references are required at this stage. For example, here it is appropriate to write "COVID-19 will remain a significant public health concern for several years". In the final milestone this statement should be justified with a reference including economic or epidemiological forecasts. There is no required number of bullet points or references; however, 20-50 points and 10-20 references is appropriate for most topics. Each reference should be included as a hyperlink with the text displayed corresponding to the title of the cited article<br/>
 
-Points must be specific. Here are examples of different varieties of strong points:
+Points must be specific. Here are examples of different varieties of appropriate points:
 (Introduction)
 * Transmissible cancers are widespread in diverse species and understudied
 * Bivalves are strongly affected [Widespread transmission of independent cancer lineages within multiple bivalve species](https://www.nature.com/articles/nature18599)
@@ -42,23 +42,36 @@ Points must be specific. Here are examples of different varieties of strong poin
 <br/>
 
 * Heart disease remains a major cause of mortality in the US
-* Cardiovascular exercise decreases risk but there is a need for improved dosing guidelines [Optimal Dose of Running for Longevity: Is More Better or Worse?](https://www.jacc.org/doi/full/10.1016/j.jacc.2014.11.022)<br/>
+* Cardiovascular exercise decreases risk but there is a need for improved dosing guidelines [Optimal Dose of Running for Longevity: Is More Better or Worse?](https://www.jacc.org/doi/full/10.1016/j.jacc.2014.11.022)
+
+<br/>
 
 * Climate instability is of rapidly growing global concern
-* Using publicly available satellite data [An overview of MODIS Land data processing and product status](https://www.sciencedirect.com/science/article/abs/pii/S0034425702000846) I will report how yearly temperature fluctuations in New York State have varied from 2010 to the present<br/>
+* Using publicly available satellite data [An overview of MODIS Land data processing and product status](https://www.sciencedirect.com/science/article/abs/pii/S0034425702000846) I will report how yearly temperature fluctuations in New York State have varied from 2010 to the present
 
 (Methods)
-* I will begin by building an updated species tree for moluscs<br/>
+* I will begin by building an updated species tree for moluscs
 
-* Using previously published running biomechanics data [A public dataset of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics](https://peerj.com/articles/3298/) I will compute the relative risk for injury during a 5k and a marthon between adults aged 18-65 and >65<br/>
+<br/>
 
-* I will compute the average temperature at each grid location over a sliding window of 1 year and measure the daily deviation from that temperature over timee.<br/>
+* Using previously published running biomechanics data [A public dataset of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics](https://peerj.com/articles/3298/) I will compute the relative risk for injury during a 5k and a marthon between adults aged 18-65 and >65
 
-Here are examples of weak points:
-* 
+<br/>
+
+* I will compute the average temperature at each grid location over a sliding window of 1 year and measure the daily deviation from that temperature over timee.
+
+Here are examples of inappropriate points:
+(too vague)
 * I will assess the needs of local residents
+* I will analyze this data set [A public dataset of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics](https://peerj.com/articles/3298/)
+* Stakeholders will inform the construction of my survey
 
-(remains under construction)
+(citation needed - if true)
+* The world record marathon time is within 5 minutes of the established theoretical limit
+* Daily fast food sales records within NYC from 2015 to the present are publicly available
+* The majority of gas stoves in the US generate CO levels which exceed federal guidelines
+
+
 
 ## Next Objective
 At the time of writing, **September 18, 2023**, the next objective is:
