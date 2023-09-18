@@ -86,7 +86,7 @@ Here are examples of inappropriate points:<br/>
 On formatting:<br/>
 To prevent accidents associated with editing a different student's project, instead of directly editing the course page, you will work within your own GitHub repository. If you are new to GitHub, you may follow this step-by-step [guide](https://docs.github.com/en/get-started/quickstart/create-a-repo) to create your first repository. For this milestone, you may only need to generate a single file, the "README.md" file which should automatically be initialized when you create your repository.<br/>
 
-You may consider using this [template]() which only uses three basic formatting functions:
+You may consider using this [template](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/Introduction_and_methods_template.md) which only uses three basic formatting functions:
 1) creating a heading, "##"
 2) line breaks, "\<br/>"
 3) hyperlinks, "\[display text](web address)"
