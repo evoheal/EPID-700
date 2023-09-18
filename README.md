@@ -84,7 +84,7 @@ Here are examples of inappropriate points:<br/>
 * The majority of gas stoves in the US generate CO levels which exceed federal guidelines
 
 On formatting:<br/>
-To prevent accidents associated with editing a different student's project, instead of directly editing the course page, you will work within your own GitHub repository. If you are new to GitHub, you may follow this step-by-step [guide](https://docs.github.com/en/get-started/quickstart/create-a-repo) to create your first repository. For this milestone, you may only need to generate a single file, the "README.md" file which should automatically be initialized when you create your repository. You may consider using this [template]().</br> For this and most future milestones, I will upload the final result to the course page for you (in the folders linked at the top of this document which are currently empty).
+To prevent accidents associated with editing a different student's project, instead of directly editing the course page, you will work within your own GitHub repository. If you are new to GitHub, you may follow this step-by-step [guide](https://docs.github.com/en/get-started/quickstart/create-a-repo) to create your first repository. For this milestone, you may only need to generate a single file, the "README.md" file which should automatically be initialized when you create your repository. You may consider using this [template](). For this and most future milestones, I will upload the final result to the course page for you (in the folders linked at the top of this document which are currently empty).
 
 ## Next Objective
 At the time of writing, **September 18, 2023**, the next objective is:
