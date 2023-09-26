@@ -36,8 +36,8 @@ Milestones **due by**:
 
 This timeline is recommended to ensure that submission to an indexed repository is completed by **December 15, 2023**. Extensions, for any milestone and not limited to final submission, will only be granted after the course instructor has received email confirmation that the faculty advisor for the student requesting the extension has been made aware of the request without objection.
 
-## Current Objective
-At the time of writing, **September 18, 2023**, the current objective is:
+## Prior Objective
+At the time of writing, **September 26, 2023**, the prior objective was:
 * Outline for introduction and methods live on course page **9/22**
 
 Now the goals for each project have been identified. The goals have been succinctly motiviated (why is this work important?) and practically supported (how will this get done in the next three months?). The next step is to formalize these goals in a longer, more detailed project outline which will be shared with a peer reviewer from the class in the next milestone. This peer reviewer will score the outline as if it had been submitted to a grant review committee, primarily evaluating how well the proposal addresses *impact, novelty, and practicality*. The idea presented and the author's preparedness will be scored separately. Note that these peer review scores will not impact the course grade.<br/>
@@ -95,8 +95,8 @@ You may consider using this [template](https://github.com/evoheal/EPID-700-Fall-
 
 Other more flexible options are [possible](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if desired. For this and most future milestones, I will upload the final result to the course page for you (in the folders linked at the top of this document which are currently empty).
 
-## Next Objective
-At the time of writing, **September 18, 2023**, the next objective is:
+## Current Objective
+At the time of writing, **September 26, 2023**, the current objective is:
 * Mock grant review **10/6**
 
 In this objective, you will review a classmate's introduction and methods outline and make an assessment primarily considering three things:
