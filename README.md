@@ -40,35 +40,38 @@ This timeline is recommended to ensure that submission to an indexed repository 
 At the time of writing, **November 21, 2023**, the current objective is:
 * Symposium Presentations **12/2**
 
-The [symposium](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/cunySPH_PHIsymposium.pdf) will be held Saturday, December 2nd from 10am to 4pm.
+The [symposium](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/cunySPH_PHIsymposium.pdf) will be held Saturday, December 2nd from 10am to 4pm.<br/>
 
-Each student presentation should be between 15 and 25 minutes. Talks are spaced 30 minutes apart to provide time for transitioning speakers and Q/A. Following the student presentations is a keynote address and panel discussion. All students must be present for the full duration of the symposium. The symposium will be recorded
+Each student presentation should be between 15 and 25 minutes. Talks are spaced 30 minutes apart to provide time for transitioning speakers and Q/A. Following the student presentations is a keynote address and panel discussion. All students must be present for the full duration of the symposium. The symposium will be recorded.<br/>
 
 * Presentation structure
+  
 As with the 5 minute presentations at the beginning of the course, there is no required format for the symposium presentation; however, the following format is provided as a suggested framework.
 
-Title Slide.
-Slide 1: Problem statement in broad public health context (1 min.)
-Slide 2: Description of why you selected your focused topic (1 min.)
-Slide 3: Summary of state of the art. Cite at least 2 references. (2 min.)
-Slide 4: Characterize the data used for this study (2 min.)
-Slide 5: Describe the analytical approach used for this study (2 min.)
-Slides 6-N: Present the detailed results of your work (4-14 min.)
-Slide N+1: Succinctly summarize the main findings of your work (1 min.)
-Slide N+2: Motivate future work faciliatated by your study (1 min.)
-Acknowledgements Slide: Include your preceptor, any collaborators, and potentially sources of data if appropriate (1 min.)
+Title Slide.<br/>
+Slide 1: Problem statement in broad public health context (1 min.)<br/>
+Slide 2: Description of why you selected your focused topic (1 min.)<br/>
+Slide 3: Summary of state of the art. Cite at least 2 references. (2 min.)<br/>
+Slide 4: Characterize the data used for this study (2 min.)<br/>
+Slide 5: Describe the analytical approach used for this study (2 min.)<br/>
+Slides 6-N: Present the detailed results of your work (4-14 min.)<br/>
+Slide N+1: Succinctly summarize the main findings of your work (1 min.)<br/>
+Slide N+2: Motivate future work faciliatated by your study (1 min.)<br/>
+Acknowledgements Slide: Include your preceptor, any collaborators, and potentially sources of data if appropriate (1 min.)<br/>
 
-As discussed with respect to the 5 minute presentations, your symposium talks need to acheive 2 primary goals.
+As discussed with respect to the 5 minute presentations, your symposium talks need to acheive 2 primary goals.<br/>
 
 1) You must motivate the audience to believe the topid you are studying is important
 2) You must ensure the methods are presented clearly so that the audience is capable of assessing whether your argument is unsound
 
-Your slides should be well designed. Slides should not contain any text (exluding data tables / figure labels) which is not read by the speaker. Slides should include figures and **must** include references. Speakers should say more than is written on each slide.
+Your slides should be well designed. Slides should not contain any text (exluding data tables / figure labels) which is not read by the speaker. Slides should include figures and **must** include references. Speakers should say more than is written on each slide.<br/>
 
 * Practice
+
 You should practice your presentation at least 3 times prior to the symposium. Ideally you will practice with your peer review partner. You may consider recording yourself and watching the playback. I recommend you write a script.
 
 * Q/A
+
 In order to ensure a productive discussion, you must be prepared to ask your peer review partner at least 1 question about their presentation. This question may be agreed upon beforhand if desired. Additionally, you must be prepared to ask the keynote speaker 1 question. You may consider reviewing their recently publisehd work to prepare. Lastly you must contribute to the panel discussion by asking 2 questions which may be related to the broader impact of your own work.
 
 ## Next Objective
