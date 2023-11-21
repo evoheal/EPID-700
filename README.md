@@ -61,7 +61,7 @@ Acknowledgements Slide: Include your preceptor, any collaborators, and potential
 
 As discussed with respect to the 5 minute presentations, your symposium talks need to acheive 2 primary goals.<br/>
 
-1) You must motivate the audience to believe the topid you are studying is important
+1) You must motivate the audience to believe the topic you are studying is important
 2) You must ensure the methods are presented clearly so that the audience is capable of assessing whether your argument is unsound
 
 Your slides should be well designed. Slides should not contain any text (exluding data tables / figure labels) which is not read by the speaker. Slides should include figures and **must** include references. Speakers should say more than is written on each slide.<br/>
@@ -77,6 +77,11 @@ In order to ensure a productive discussion, you must be prepared to ask your pee
 ## Next Objective
 At the time of writing, **November 21, 2023**, the next objective is:
 * Outline for final citable work live on course page **12/6**
+
+The primary purpose for the outline of your final project is to facilitate the second round of peer review. It must be formatted in the same manner as was the outline for introduction and methods with the principal differences being:
+
+1) all references included in the final project must be included in this outline beyond the "essential" references as was discussed for the previous course objective. One aspect of the peer review will be to establish if any claims are unjustified. Claims which are not justified through your own work but which do not amount to "general knowledge" need to be cited. What constitutes "general knowledge" will be established in part, through peer review.
+2) all figures presented in the final project must be included in this outline.
 
 ## Frequently Asked Questions
 * Will our project be related to our fieldwork or is it up to us what topic we pick?
