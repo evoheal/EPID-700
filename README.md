@@ -40,7 +40,7 @@ This timeline is recommended to ensure that submission to an indexed repository 
 At the time of writing, **November 21, 2023**, the current objective is:
 * Symposium Presentations **12/2**
 
-The [symposium](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/EPID%20700%20Syllabus%20Fall%202023.pdf) will be held Saturday, December 2nd from 10am to 4pm.
+The [symposium](https://github.com/evoheal/EPID-700-Fall-2023/blob/main/cunySPH_PHIsymposium.pdf) will be held Saturday, December 2nd from 10am to 4pm.
 
 Each student presentation should be between 15 and 25 minutes. Talks are spaced 30 minutes apart to provide time for transitioning speakers and Q/A. Following the student presentations is a keynote address and panel discussion. All students must be present for the full duration of the symposium. The symposium will be recorded
 
