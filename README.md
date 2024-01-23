@@ -34,6 +34,17 @@ Milestones **due by**:
 * Final draft of citable work live on course page **12/15**
 * Submission of citable work to indexed repository **12/20**
 
+* 30 min. 1-1 introductory meeting with Nash **2/2**
+* 5 min. class presentations **2/9**
+* Finalized research objectives **2/26**
+* Outline for introduction and methods live on course page **3/4**
+* Mock grant review **3/11**
+* Course symposium, 20 min. presentations **4/1**
+* Outline for final citable work live on course page **4/12**
+* Mock publication review **4/19**
+* Final draft of citable work live on course page **5/10**
+* Submission of citable work to indexed repository **5/22**
+
 This timeline is recommended to ensure that submission to an indexed repository is completed by **December 20, 2023**. Extensions, for any milestone and not limited to final submission, will only be granted after the course instructor has received email confirmation that the faculty advisor for the student requesting the extension has been made aware of the request without objection.
 
 ## Current Objective
