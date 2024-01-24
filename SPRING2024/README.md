@@ -34,7 +34,7 @@ This timeline is recommended to ensure that submission to an indexed repository 
 At the time of writing, **January 23, 2024**, the current objective is:
 * 30 min. 1-1 introductory meeting with Nash or Sehyun **2/2**
 
-Please fill out your availability to meet with Nash [here](https://www.when2meet.com/?23307243-B6TOG)
+Please fill out your availability to meet [here](https://www.when2meet.com/?23307243-B6TOG)
 
 ## Next Objective
 At the time of writing, **January 23, 2024**, the next objective is:
