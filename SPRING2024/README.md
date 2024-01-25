@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/evoheal/EPID-700/blob/main/SPRING2024/CUNYbannerImage.png)
 # <p align="center">EPID 700, Spring 2024</p>
 
-Welcome to the course page for the City University of New York, SPH: Population Health Informatics Project, Spring 2024. You may find the course syllabus [here](FALL2023/syllabus.pdf); however, the course structure is flexible and may be adjusted over the semester to best support student needs. Please refer to this page to remain updated.
+Welcome to the course page for the City University of New York, SPH: Population Health Informatics Project, Spring 2024. You may find the course syllabus [here](https://github.com/evoheal/EPID-700/blob/main/SPRING2024/EPID%20700%20Syllabus%20Spring%202024.pdf); however, the course structure is flexible and may be adjusted over the semester to best support student needs. Please refer to this page to remain updated.
 
 ## Instructors
 Nash Rochman<br/>
